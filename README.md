@@ -3,7 +3,7 @@
 [**Versão em Português**](./READMEPTBR.md) | **Portuguese Version**
 
 # 👋 Hello, welcome to my GitHub!
-
+<img align="right" width="390" height="200" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" />
 ## 🔧 About me
 
 ```php
@@ -19,7 +19,6 @@ print_r(aboutMe());
 ?>
 ```
 
-<img align="right" width="390" height="200" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" />
 I am a **programming student**, currently learning and developing projects with the following technologies:
 - 🟠 **Laravel**
 - 🟡 **PHP**
