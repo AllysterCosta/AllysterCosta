@@ -3,7 +3,7 @@
 [**Versão em Português**](./READMEPTBR.md) | **Portuguese Version**
 
 ## 🔧 About me
-<img align="right" width="390" height="359" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" />
+<img align="right" width="390" height="300" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" />
 
 ```php
 <?php
