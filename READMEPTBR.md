@@ -9,7 +9,7 @@
 <?php
 function sobreMim() {
     return [
-        "nome" => "Estudante de Programação",
+        "nome" => "Allyster Costa",
         "habilidades" => ["Laravel", "PHP", "Python", "GDScript"],
         "objetivo" => "Aprimorar habilidades e compartilhar conhecimento"
     ];
