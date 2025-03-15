@@ -2,11 +2,9 @@
 
 [**Versão em Inglês**](./README.md) | **English version**
 
-# ![Computador rodando código](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
-# 👋 Olá!
-
 ## 🔧 Sobre mim
+<img align="right" width="350" height="230" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" />
+
 ```php
 <?php
 function sobreMim() {
@@ -43,8 +41,7 @@ Fique à vontade para explorar, sugerir melhorias e colaborar!
 Se quiser trocar uma ideia sobre programação ou colaborar em algum projeto, me chame por aqui!
 
 🔗 **Minhas redes sociais:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allystermarques/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllysterCosta)
 
 ---
