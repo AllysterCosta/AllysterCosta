@@ -2,11 +2,11 @@
 
 [**Versão em Português**](./READMEPTBR.md) | **Portuguese Version**
 
-<img align="right" width="390" height="200" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" />
-
 # 👋 Hello, welcome to my GitHub!
 
 ## 🔧 About me
+
+<img align="right" width="390" height="200" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" />
 ```php
 <?php
 function aboutMe() {
